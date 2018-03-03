@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MySonSchool Input</string>
+
+    <!-- Drawer Strings -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Titles -->
+    <string name="group_member">Anggota Kelompok</string>
+    <string name="teacher">Teacher</string>
+    <string name="violation">Pelanggaran</string>
+    <string name="insert_teacher_data">Insert Data Guru</string>
+    <string name="edit_teacher_data">Edit Data Guru</string>
+    <string name="insert_violation_data">Insert Data Pelanggaran</string>
+
+
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <!-- Placeholders -->
+    <string name="name">Name</string>
+    <string name="plp">Plp</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="insert">Insert</string>
+    <string name="id">ID</string>
+    <string name="point">Point</string>
+
+</resources>

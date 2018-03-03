@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:id="@+id/tvToolbar"
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/logo_toolbar_center"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="end"
+        android:layout_marginEnd="10dp"
+        android:gravity="end|center"
+        android:background="@drawable/log_out"/>
+</android.support.v7.widget.Toolbar>
